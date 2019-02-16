@@ -1,0 +1,652 @@
+[SYSTEM] 2019/01/23 23:33:29 system start..
+[SYSTEM] 2019/01/23 23:34:08 system start..
+[SYSTEM] 2019/01/23 23:47:16 system start..
+[SYSTEM] 2019/01/23 23:47:47 system start..
+[SYSTEM] 2019/01/24 00:02:14 system start..
+[SYSTEM] 2019/01/24 00:07:51 redis config content decode sucess
+[SYSTEM] 2019/01/24 00:07:51 redis client init sucess
+[SYSTEM] 2019/01/24 00:07:51 system start..
+[SYSTEM] 2019/01/24 00:09:59 redis config content decode sucess
+[SYSTEM] 2019/01/24 00:09:59 redis client init sucess
+[SYSTEM] 2019/01/24 00:09:59 system start..
+[SYSTEM] 2019/01/24 00:23:34 redis config content decode sucess
+[SYSTEM] 2019/01/24 00:23:34 redis client init sucess
+[SYSTEM] 2019/01/24 00:23:34 system start..
+[SYSTEM] 2019/01/24 00:23:55 redis config content decode sucess
+[SYSTEM] 2019/01/24 00:23:55 redis client init sucess
+[SYSTEM] 2019/01/24 00:23:55 system start..
+[SYSTEM] 2019/01/24 00:34:05 redis config content decode sucess
+[SYSTEM] 2019/01/24 00:34:05 redis client init sucess
+[SYSTEM] 2019/01/24 00:34:05 system start..
+[SYSTEM] 2019/01/24 00:37:07 redis config content decode sucess
+[SYSTEM] 2019/01/24 00:37:07 redis client init sucess
+[SYSTEM] 2019/01/24 00:37:07 system start..
+[SYSTEM] 2019/01/24 00:37:53 redis config content decode sucess
+[SYSTEM] 2019/01/24 00:37:53 redis client init sucess
+[SYSTEM] 2019/01/24 00:37:53 system start..
+[SYSTEM] 2019/01/24 21:21:48 redis config content decode sucess
+[SYSTEM] 2019/01/24 21:21:48 redis client init sucess
+[SYSTEM] 2019/01/24 21:21:48 system start..
+[SYSTEM] 2019/01/25 23:45:12 redis config content decode sucess
+[SYSTEM] 2019/01/25 23:45:12 redis client init sucess
+[SYSTEM] 2019/01/25 23:45:12 system start..
+[SYSTEM] 2019/01/25 23:45:49 redis config content decode sucess
+[SYSTEM] 2019/01/25 23:45:49 redis client init sucess
+[SYSTEM] 2019/01/25 23:45:49 system start..
+[SYSTEM] 2019/01/26 01:01:51 redis config content decode sucess
+[SYSTEM] 2019/01/26 01:01:51 redis client init sucess
+[SYSTEM] 2019/01/26 01:01:51 system start..
+[SYSTEM] 2019/01/26 01:09:11 redis config content decode sucess
+[SYSTEM] 2019/01/26 01:09:11 redis client init sucess
+[SYSTEM] 2019/01/26 01:09:11 system start..
+[SYSTEM] 2019/01/26 01:10:04 redis config content decode sucess
+[SYSTEM] 2019/01/26 01:10:04 redis client init sucess
+[SYSTEM] 2019/01/26 01:10:04 system start..
+[SYSTEM] 2019/01/26 01:11:59 redis config content decode sucess
+[SYSTEM] 2019/01/26 01:11:59 redis client init sucess
+[SYSTEM] 2019/01/26 01:11:59 system start..
+[SYSTEM] 2019/01/26 01:15:51 redis config content decode sucess
+[SYSTEM] 2019/01/26 01:15:51 redis client init sucess
+[SYSTEM] 2019/01/26 01:15:51 system start..
+[SYSTEM] 2019/01/26 13:01:43 redis config content decode sucess
+[SYSTEM] 2019/01/26 13:01:43 redis client init sucess
+[SYSTEM] 2019/01/26 13:01:43 system start..
+[SYSTEM] 2019/01/26 13:05:24 redis config content decode sucess
+[SYSTEM] 2019/01/26 13:05:24 redis client init sucess
+[SYSTEM] 2019/01/26 13:05:24 system start..
+[SYSTEM] 2019/01/26 13:09:33 redis config content decode sucess
+[SYSTEM] 2019/01/26 13:09:33 redis client init sucess
+[SYSTEM] 2019/01/26 13:09:33 system start..
+[SYSTEM] 2019/01/26 13:09:58 redis config content decode sucess
+[SYSTEM] 2019/01/26 13:09:58 redis client init sucess
+[SYSTEM] 2019/01/26 13:09:58 system start..
+[SYSTEM] 2019/01/26 13:18:41 redis config content decode sucess
+[SYSTEM] 2019/01/26 13:18:41 redis client init sucess
+[SYSTEM] 2019/01/26 13:18:41 system start..
+[SYSTEM] 2019/01/26 21:38:57 redis config content decode sucess
+[SYSTEM] 2019/01/26 21:38:57 redis client init sucess
+[SYSTEM] 2019/01/26 21:38:57 system start..
+[SYSTEM] 2019/01/26 21:45:15 redis config content decode sucess
+[SYSTEM] 2019/01/26 21:45:15 redis client init sucess
+[SYSTEM] 2019/01/26 21:45:15 system start..
+[SYSTEM] 2019/01/26 21:45:31 redis config content decode sucess
+[SYSTEM] 2019/01/26 21:45:31 redis client init sucess
+[SYSTEM] 2019/01/26 21:45:31 system start..
+[SYSTEM] 2019/01/26 21:49:19 redis config content decode sucess
+[SYSTEM] 2019/01/26 21:49:19 redis client init sucess
+[SYSTEM] 2019/01/26 21:49:19 system start..
+[SYSTEM] 2019/01/26 21:54:24 redis config content decode sucess
+[SYSTEM] 2019/01/26 21:54:24 redis client init sucess
+[SYSTEM] 2019/01/26 21:54:24 system start..
+[SYSTEM] 2019/01/26 21:57:27 redis config content decode sucess
+[SYSTEM] 2019/01/26 21:57:27 redis client init sucess
+[SYSTEM] 2019/01/26 21:57:27 system start..
+[SYSTEM] 2019/01/26 22:00:39 redis config content decode sucess
+[SYSTEM] 2019/01/26 22:00:39 redis client init sucess
+[SYSTEM] 2019/01/26 22:00:39 system start..
+[SYSTEM] 2019/01/26 22:03:07 redis config content decode sucess
+[SYSTEM] 2019/01/26 22:03:07 redis client init sucess
+[SYSTEM] 2019/01/26 22:03:07 system start..
+[SYSTEM] 2019/01/26 22:12:30 redis config content decode sucess
+[SYSTEM] 2019/01/26 22:12:30 redis client init sucess
+[SYSTEM] 2019/01/26 22:12:30 system start..
+[SYSTEM] 2019/01/26 22:16:29 redis config content decode sucess
+[SYSTEM] 2019/01/26 22:16:29 redis client init sucess
+[SYSTEM] 2019/01/26 22:16:29 system start..
+[SYSTEM] 2019/01/26 22:37:52 redis config content decode sucess
+[SYSTEM] 2019/01/26 22:37:52 redis client init sucess
+[SYSTEM] 2019/01/26 22:37:52 system start..
+[SYSTEM] 2019/01/27 16:26:02 redis config content decode sucess
+[SYSTEM] 2019/01/27 16:26:02 redis client init sucess
+[SYSTEM] 2019/01/27 16:26:02 system start..
+[SYSTEM] 2019/01/27 16:27:39 redis config content decode sucess
+[SYSTEM] 2019/01/27 16:27:39 redis client init sucess
+[SYSTEM] 2019/01/27 16:27:39 system start..
+[SYSTEM] 2019/01/27 16:34:15 redis config content decode sucess
+[SYSTEM] 2019/01/27 16:34:15 redis client init sucess
+[SYSTEM] 2019/01/27 16:34:15 system start..
+[SYSTEM] 2019/01/27 21:40:57 redis config content decode sucess
+[SYSTEM] 2019/01/27 21:40:57 redis client init sucess
+[SYSTEM] 2019/01/27 21:40:57 system start..
+[SYSTEM] 2019/01/28 00:54:53 redis config content decode sucess
+[SYSTEM] 2019/01/28 00:54:53 redis client init sucess
+[SYSTEM] 2019/01/28 00:54:53 system start..
+[SYSTEM] 2019/01/28 08:07:27 redis config content decode sucess
+[SYSTEM] 2019/01/28 08:07:27 redis client init sucess
+[SYSTEM] 2019/01/28 08:07:27 system start..
+[SYSTEM] 2019/01/28 08:08:30 redis config content decode sucess
+[SYSTEM] 2019/01/28 08:08:30 redis client init sucess
+[SYSTEM] 2019/01/28 08:08:30 system start..
+[SYSTEM] 2019/01/29 19:59:55 db config content decode sucess
+[SYSTEM] 2019/01/29 19:59:55 redis config content decode sucess
+[SYSTEM] 2019/01/29 19:59:55 redis client init sucess
+[SYSTEM] 2019/01/29 19:59:55 system start..
+[SYSTEM] 2019/01/29 20:00:35 db config content decode sucess
+[SYSTEM] 2019/01/29 20:00:35 redis config content decode sucess
+[SYSTEM] 2019/01/29 20:00:35 redis client init sucess
+[SYSTEM] 2019/01/29 20:00:35 system start..
+[SYSTEM] 2019/01/29 20:17:10 db config content decode sucess
+[SYSTEM] 2019/01/29 20:17:10 mysql client init sucess
+[SYSTEM] 2019/01/29 20:17:10 mysql ping failed
+[SYSTEM] 2019/01/29 20:17:10 redis config content decode sucess
+[SYSTEM] 2019/01/29 20:17:10 redis client init sucess
+[SYSTEM] 2019/01/29 20:17:10 system start..
+[SYSTEM] 2019/01/29 20:19:00 db config content decode sucess
+[SYSTEM] 2019/01/29 20:19:00 mysql client init sucess
+[SYSTEM] 2019/01/29 20:19:00 mysql ping failed
+[SYSTEM] 2019/01/29 20:19:00 redis config content decode sucess
+[SYSTEM] 2019/01/29 20:19:00 redis client init sucess
+[SYSTEM] 2019/01/29 20:19:00 system start..
+[SYSTEM] 2019/01/29 20:19:54 db config content decode sucess
+[SYSTEM] 2019/01/29 20:19:54 mysql client init sucess
+[SYSTEM] 2019/01/29 20:19:54 mysql ping failed
+[SYSTEM] 2019/01/29 20:19:54 redis config content decode sucess
+[SYSTEM] 2019/01/29 20:19:54 redis client init sucess
+[SYSTEM] 2019/01/29 20:19:54 system start..
+[SYSTEM] 2019/01/29 23:28:10 db config content decode sucess
+[SYSTEM] 2019/01/29 23:28:10 mysql client init sucess
+[SYSTEM] 2019/01/29 23:28:10 mysql ping sucess
+[SYSTEM] 2019/01/29 23:28:10 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:28:10 redis client init sucess
+[SYSTEM] 2019/01/29 23:28:10 system start..
+[SYSTEM] 2019/01/29 23:28:26 db config content decode sucess
+[SYSTEM] 2019/01/29 23:28:26 mysql client init sucess
+[SYSTEM] 2019/01/29 23:28:26 mysql ping sucess
+[SYSTEM] 2019/01/29 23:28:26 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:28:26 redis client init sucess
+[SYSTEM] 2019/01/29 23:28:26 system start..
+[SYSTEM] 2019/01/29 23:31:59 db config content decode sucess
+[SYSTEM] 2019/01/29 23:31:59 mysql client init sucess
+[SYSTEM] 2019/01/29 23:31:59 mysql ping sucess
+[SYSTEM] 2019/01/29 23:31:59 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:31:59 redis client init sucess
+[SYSTEM] 2019/01/29 23:31:59 system start..
+[SYSTEM] 2019/01/29 23:41:27 db config content decode sucess
+[SYSTEM] 2019/01/29 23:41:27 mysql client init sucess
+[SYSTEM] 2019/01/29 23:41:27 mysql ping sucess
+[SYSTEM] 2019/01/29 23:41:27 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:41:27 redis client init sucess
+[SYSTEM] 2019/01/29 23:41:27 system start..
+[SYSTEM] 2019/01/29 23:43:14 db config content decode sucess
+[SYSTEM] 2019/01/29 23:43:14 mysql client init sucess
+[SYSTEM] 2019/01/29 23:43:14 mysql ping sucess
+[SYSTEM] 2019/01/29 23:43:14 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:43:14 redis client init sucess
+[SYSTEM] 2019/01/29 23:43:14 system start..
+[SYSTEM] 2019/01/29 23:46:13 db config content decode sucess
+[SYSTEM] 2019/01/29 23:46:13 mysql client init sucess
+[SYSTEM] 2019/01/29 23:46:13 mysql ping sucess
+[SYSTEM] 2019/01/29 23:46:13 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:46:13 redis client init sucess
+[SYSTEM] 2019/01/29 23:46:13 system start..
+[SYSTEM] 2019/01/29 23:50:27 db config content decode sucess
+[SYSTEM] 2019/01/29 23:50:27 mysql client init sucess
+[SYSTEM] 2019/01/29 23:50:27 mysql ping sucess
+[SYSTEM] 2019/01/29 23:50:27 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:50:27 redis client init sucess
+[SYSTEM] 2019/01/29 23:50:27 system start..
+[SYSTEM] 2019/01/29 23:51:02 db config content decode sucess
+[SYSTEM] 2019/01/29 23:51:02 mysql client init sucess
+[SYSTEM] 2019/01/29 23:51:02 mysql ping sucess
+[SYSTEM] 2019/01/29 23:51:02 redis config content decode sucess
+[SYSTEM] 2019/01/29 23:51:02 redis client init sucess
+[SYSTEM] 2019/01/29 23:51:02 system start..
+[SYSTEM] 2019/01/30 00:04:19 db config content decode sucess
+[SYSTEM] 2019/01/30 00:04:19 mysql client init sucess
+[SYSTEM] 2019/01/30 00:04:19 mysql ping sucess
+[SYSTEM] 2019/01/30 00:04:19 redis config content decode sucess
+[SYSTEM] 2019/01/30 00:04:19 redis client init sucess
+[SYSTEM] 2019/01/30 00:04:19 system start..
+[SYSTEM] 2019/01/30 00:28:03 db config content decode sucess
+[SYSTEM] 2019/01/30 00:28:03 mysql client init sucess
+[SYSTEM] 2019/01/30 00:28:03 mysql ping sucess
+[SYSTEM] 2019/01/30 00:28:03 redis config content decode sucess
+[SYSTEM] 2019/01/30 00:28:03 redis client init sucess
+[SYSTEM] 2019/01/30 00:28:03 system start..
+[SYSTEM] 2019/01/30 00:28:30 db config content decode sucess
+[SYSTEM] 2019/01/30 00:28:30 mysql client init sucess
+[SYSTEM] 2019/01/30 00:28:30 mysql ping sucess
+[SYSTEM] 2019/01/30 00:28:30 redis config content decode sucess
+[SYSTEM] 2019/01/30 00:28:30 redis client init sucess
+[SYSTEM] 2019/01/30 00:28:30 system start..
+[SYSTEM] 2019/01/30 00:29:28 db config content decode sucess
+[SYSTEM] 2019/01/30 00:29:28 mysql client init sucess
+[SYSTEM] 2019/01/30 00:29:28 mysql ping sucess
+[SYSTEM] 2019/01/30 00:29:28 redis config content decode sucess
+[SYSTEM] 2019/01/30 00:29:28 redis client init sucess
+[SYSTEM] 2019/01/30 00:29:28 system start..
+[SYSTEM] 2019/01/30 00:36:08 db config content decode sucess
+[SYSTEM] 2019/01/30 00:36:08 mysql client init sucess
+[SYSTEM] 2019/01/30 00:36:08 mysql ping sucess
+[SYSTEM] 2019/01/30 00:36:08 redis config content decode sucess
+[SYSTEM] 2019/01/30 00:36:08 redis client init sucess
+[SYSTEM] 2019/01/30 00:36:08 system start..
+[SYSTEM] 2019/01/30 00:38:22 db config content decode sucess
+[SYSTEM] 2019/01/30 00:38:22 mysql client init sucess
+[SYSTEM] 2019/01/30 00:38:22 mysql ping sucess
+[SYSTEM] 2019/01/30 00:38:22 redis config content decode sucess
+[SYSTEM] 2019/01/30 00:38:22 redis client init sucess
+[SYSTEM] 2019/01/30 00:38:22 system start..
+[SYSTEM] 2019/01/30 12:18:11 db config content decode sucess
+[SYSTEM] 2019/01/30 12:18:11 mysql client init sucess
+[SYSTEM] 2019/01/30 12:18:11 mysql ping sucess
+[SYSTEM] 2019/01/30 12:18:11 redis config content decode sucess
+[SYSTEM] 2019/01/30 12:18:11 redis client init sucess
+[SYSTEM] 2019/01/30 12:18:11 system start..
+[SYSTEM] 2019/01/30 19:47:55 db config content decode sucess
+[SYSTEM] 2019/01/30 19:47:55 mysql client init sucess
+[SYSTEM] 2019/01/30 19:47:55 mysql ping sucess
+[SYSTEM] 2019/01/30 19:47:55 redis config content decode sucess
+[SYSTEM] 2019/01/30 19:47:55 redis client init sucess
+[SYSTEM] 2019/01/30 19:47:55 system start..
+[SYSTEM] 2019/01/30 19:50:11 db config content decode sucess
+[SYSTEM] 2019/01/30 19:50:11 mysql client init sucess
+[SYSTEM] 2019/01/30 19:50:11 mysql ping sucess
+[SYSTEM] 2019/01/30 19:50:11 redis config content decode sucess
+[SYSTEM] 2019/01/30 19:50:11 redis client init sucess
+[SYSTEM] 2019/01/30 19:50:11 system start..
+[SYSTEM] 2019/01/30 19:53:11 db config content decode sucess
+[SYSTEM] 2019/01/30 19:53:11 mysql client init sucess
+[SYSTEM] 2019/01/30 19:53:11 mysql ping sucess
+[SYSTEM] 2019/01/30 19:53:11 redis config content decode sucess
+[SYSTEM] 2019/01/30 19:53:11 redis client init sucess
+[SYSTEM] 2019/01/30 19:53:11 system start..
+[SYSTEM] 2019/01/30 19:53:48 db config content decode sucess
+[SYSTEM] 2019/01/30 19:53:48 mysql client init sucess
+[SYSTEM] 2019/01/30 19:53:48 mysql ping sucess
+[SYSTEM] 2019/01/30 19:53:48 redis config content decode sucess
+[SYSTEM] 2019/01/30 19:53:48 redis client init sucess
+[SYSTEM] 2019/01/30 19:53:48 system start..
+[SYSTEM] 2019/01/30 19:58:44 db config content decode sucess
+[SYSTEM] 2019/01/30 19:58:44 mysql client init sucess
+[SYSTEM] 2019/01/30 19:58:44 mysql ping sucess
+[SYSTEM] 2019/01/30 19:58:44 redis config content decode sucess
+[SYSTEM] 2019/01/30 19:58:44 redis client init sucess
+[SYSTEM] 2019/01/30 19:58:44 system start..
+[SYSTEM] 2019/01/30 19:59:08 db config content decode sucess
+[SYSTEM] 2019/01/30 19:59:08 mysql client init sucess
+[SYSTEM] 2019/01/30 19:59:08 mysql ping sucess
+[SYSTEM] 2019/01/30 19:59:08 redis config content decode sucess
+[SYSTEM] 2019/01/30 19:59:08 redis client init sucess
+[SYSTEM] 2019/01/30 19:59:08 system start..
+[SYSTEM] 2019/01/30 20:13:37 db config content decode sucess
+[SYSTEM] 2019/01/30 20:13:37 mysql client init sucess
+[SYSTEM] 2019/01/30 20:13:37 mysql ping sucess
+[SYSTEM] 2019/01/30 20:13:37 redis config content decode sucess
+[SYSTEM] 2019/01/30 20:13:37 redis client init sucess
+[SYSTEM] 2019/01/30 20:13:37 system start..
+[SYSTEM] 2019/01/30 20:15:17 db config content decode sucess
+[SYSTEM] 2019/01/30 20:15:17 mysql client init sucess
+[SYSTEM] 2019/01/30 20:15:17 mysql ping sucess
+[SYSTEM] 2019/01/30 20:15:17 redis config content decode sucess
+[SYSTEM] 2019/01/30 20:15:17 redis client init sucess
+[SYSTEM] 2019/01/30 20:15:17 system start..
+[SYSTEM] 2019/01/30 20:17:58 db config content decode sucess
+[SYSTEM] 2019/01/30 20:17:58 mysql client init sucess
+[SYSTEM] 2019/01/30 20:17:58 mysql ping sucess
+[SYSTEM] 2019/01/30 20:17:58 redis config content decode sucess
+[SYSTEM] 2019/01/30 20:17:58 redis client init sucess
+[SYSTEM] 2019/01/30 20:17:58 system start..
+[SYSTEM] 2019/01/30 20:19:07 db config content decode sucess
+[SYSTEM] 2019/01/30 20:19:07 mysql client init sucess
+[SYSTEM] 2019/01/30 20:19:07 mysql ping sucess
+[SYSTEM] 2019/01/30 20:19:07 redis config content decode sucess
+[SYSTEM] 2019/01/30 20:19:07 redis client init sucess
+[SYSTEM] 2019/01/30 20:19:07 system start..
+[SYSTEM] 2019/01/30 20:19:46 db config content decode sucess
+[SYSTEM] 2019/01/30 20:19:46 mysql client init sucess
+[SYSTEM] 2019/01/30 20:19:46 mysql ping sucess
+[SYSTEM] 2019/01/30 20:19:46 redis config content decode sucess
+[SYSTEM] 2019/01/30 20:19:46 redis client init sucess
+[SYSTEM] 2019/01/30 20:19:46 system start..
+[SYSTEM] 2019/01/31 10:21:33 db config content decode sucess
+[SYSTEM] 2019/01/31 10:21:33 mysql client init sucess
+[SYSTEM] 2019/01/31 10:21:33 mysql ping sucess
+[SYSTEM] 2019/01/31 10:21:33 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:21:33 redis client init sucess
+[SYSTEM] 2019/01/31 10:21:33 system start..
+[SYSTEM] 2019/01/31 10:27:42 db config content decode sucess
+[SYSTEM] 2019/01/31 10:27:42 mysql client init sucess
+[SYSTEM] 2019/01/31 10:27:42 mysql ping sucess
+[SYSTEM] 2019/01/31 10:27:42 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:27:42 redis client init sucess
+[SYSTEM] 2019/01/31 10:27:42 system start..
+[SYSTEM] 2019/01/31 10:30:04 db config content decode sucess
+[SYSTEM] 2019/01/31 10:30:04 mysql client init sucess
+[SYSTEM] 2019/01/31 10:30:04 mysql ping sucess
+[SYSTEM] 2019/01/31 10:30:04 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:30:04 redis client init sucess
+[SYSTEM] 2019/01/31 10:30:04 system start..
+[SYSTEM] 2019/01/31 10:34:27 db config content decode sucess
+[SYSTEM] 2019/01/31 10:34:27 mysql client init sucess
+[SYSTEM] 2019/01/31 10:34:27 mysql ping sucess
+[SYSTEM] 2019/01/31 10:34:27 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:34:27 redis client init sucess
+[SYSTEM] 2019/01/31 10:34:27 system start..
+[SYSTEM] 2019/01/31 10:35:50 db config content decode sucess
+[SYSTEM] 2019/01/31 10:35:50 mysql client init sucess
+[SYSTEM] 2019/01/31 10:35:50 mysql ping sucess
+[SYSTEM] 2019/01/31 10:35:50 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:35:50 redis client init sucess
+[SYSTEM] 2019/01/31 10:35:50 system start..
+[SYSTEM] 2019/01/31 10:37:02 db config content decode sucess
+[SYSTEM] 2019/01/31 10:37:02 mysql client init sucess
+[SYSTEM] 2019/01/31 10:37:02 mysql ping sucess
+[SYSTEM] 2019/01/31 10:37:02 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:37:02 redis client init sucess
+[SYSTEM] 2019/01/31 10:37:02 system start..
+[SYSTEM] 2019/01/31 10:40:21 db config content decode sucess
+[SYSTEM] 2019/01/31 10:40:21 mysql client init sucess
+[SYSTEM] 2019/01/31 10:40:21 mysql ping sucess
+[SYSTEM] 2019/01/31 10:40:21 uid:%!s(int=1) , username:lufei, department:develop, created:2013-07-12
+[SYSTEM] 2019/01/31 10:40:21 uid:%!s(int=2) , username:jack, department:develop, created:2015-01-12
+[SYSTEM] 2019/01/31 10:40:21 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:40:21 redis client init sucess
+[SYSTEM] 2019/01/31 10:40:21 system start..
+[SYSTEM] 2019/01/31 10:40:55 db config content decode sucess
+[SYSTEM] 2019/01/31 10:40:55 mysql client init sucess
+[SYSTEM] 2019/01/31 10:40:55 mysql ping sucess
+[SYSTEM] 2019/01/31 10:40:55 uid:1 , username:lufei, department:develop, created:2013-07-12
+[SYSTEM] 2019/01/31 10:40:55 uid:2 , username:jack, department:develop, created:2015-01-12
+[SYSTEM] 2019/01/31 10:40:55 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:40:55 redis client init sucess
+[SYSTEM] 2019/01/31 10:40:55 system start..
+[SYSTEM] 2019/01/31 10:47:26 db config content decode sucess
+[SYSTEM] 2019/01/31 10:47:26 mysql client init sucess
+[SYSTEM] 2019/01/31 10:47:26 mysql ping sucess
+[SYSTEM] 2019/01/31 10:47:26 uid:1 , username:lufei, department:develop, created:2013-07-12
+[SYSTEM] 2019/01/31 10:47:26 uid:2 , username:jack, department:develop, created:2015-01-12
+[SYSTEM] 2019/01/31 10:47:26 mysql affected rows 0
+[SYSTEM] 2019/01/31 10:47:26 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:47:26 redis client init sucess
+[SYSTEM] 2019/01/31 10:47:26 system start..
+[SYSTEM] 2019/01/31 10:47:44 db config content decode sucess
+[SYSTEM] 2019/01/31 10:47:44 mysql client init sucess
+[SYSTEM] 2019/01/31 10:47:44 mysql ping sucess
+[SYSTEM] 2019/01/31 10:47:44 uid:1 , username:lufei, department:develop, created:2013-07-12
+[SYSTEM] 2019/01/31 10:47:44 uid:2 , username:jack, department:develop, created:2015-01-12
+[SYSTEM] 2019/01/31 10:47:44 mysql affected rows 1
+[SYSTEM] 2019/01/31 10:47:44 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:47:44 redis client init sucess
+[SYSTEM] 2019/01/31 10:47:44 system start..
+[SYSTEM] 2019/01/31 10:47:48 db config content decode sucess
+[SYSTEM] 2019/01/31 10:47:48 mysql client init sucess
+[SYSTEM] 2019/01/31 10:47:48 mysql ping sucess
+[SYSTEM] 2019/01/31 10:47:48 uid:2 , username:jack, department:develop, created:2015-01-12
+[SYSTEM] 2019/01/31 10:47:48 mysql affected rows 0
+[SYSTEM] 2019/01/31 10:47:48 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:47:48 redis client init sucess
+[SYSTEM] 2019/01/31 10:47:48 system start..
+[SYSTEM] 2019/01/31 10:53:34 db config content decode sucess
+[SYSTEM] 2019/01/31 10:53:34 mysql client init sucess
+[SYSTEM] 2019/01/31 10:53:34 mysql ping sucess
+[SYSTEM] 2019/01/31 10:53:34 mysql insert lastinsertId is 4
+[SYSTEM] 2019/01/31 10:53:34 uid:2 , username:jack, department:develop, created:2015-01-12
+[SYSTEM] 2019/01/31 10:53:34 uid:4 , username:afei, department:develop, created:2019-01-31
+[SYSTEM] 2019/01/31 10:53:34 mysql affected rows 0
+[SYSTEM] 2019/01/31 10:53:34 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:53:34 redis client init sucess
+[SYSTEM] 2019/01/31 10:53:34 system start..
+[SYSTEM] 2019/01/31 10:56:29 db config content decode sucess
+[SYSTEM] 2019/01/31 10:56:29 mysql client init sucess
+[SYSTEM] 2019/01/31 10:56:29 mysql ping sucess
+[SYSTEM] 2019/01/31 10:56:29 mysql insert lastinsertId is 5
+[SYSTEM] 2019/01/31 10:56:29 uid:2 , username:jack, department:develop, created:2015-01-12
+[SYSTEM] 2019/01/31 10:56:29 uid:4 , username:afei, department:develop, created:2019-01-31
+[SYSTEM] 2019/01/31 10:56:29 uid:5 , username:afei, department:develop, created:2019-01-31
+[SYSTEM] 2019/01/31 10:56:29 mysql update RowsAffected is 1
+[SYSTEM] 2019/01/31 10:56:29 mysql affected rows 0
+[SYSTEM] 2019/01/31 10:56:29 redis config content decode sucess
+[SYSTEM] 2019/01/31 10:56:29 redis client init sucess
+[SYSTEM] 2019/01/31 10:56:29 system start..
+[SYSTEM] 2019/01/31 11:07:05 db config content decode sucess
+[SYSTEM] 2019/01/31 11:07:05 mysql client init sucess
+[SYSTEM] 2019/01/31 11:07:05 mysql ping sucess
+[SYSTEM] 2019/01/31 11:07:05 redis config content decode sucess
+[SYSTEM] 2019/01/31 11:07:05 redis client init sucess
+[SYSTEM] 2019/01/31 11:07:05 system start..
+[SYSTEM] 2019/01/31 11:09:16 db config content decode sucess
+[SYSTEM] 2019/01/31 11:09:16 mysql client init sucess
+[SYSTEM] 2019/01/31 11:09:16 mysql ping sucess
+[SYSTEM] 2019/01/31 11:09:16 redis config content decode sucess
+[SYSTEM] 2019/01/31 11:09:16 redis client init sucess
+[SYSTEM] 2019/01/31 11:09:16 system start..
+[SYSTEM] 2019/01/31 11:10:19 db config content decode sucess
+[SYSTEM] 2019/01/31 11:10:19 mysql client init sucess
+[SYSTEM] 2019/01/31 11:10:19 mysql ping sucess
+[SYSTEM] 2019/01/31 11:10:19 redis config content decode sucess
+[SYSTEM] 2019/01/31 11:10:19 redis client init sucess
+[SYSTEM] 2019/01/31 11:10:19 system start..
+[SYSTEM] 2019/01/31 11:34:43 db config content decode sucess
+[SYSTEM] 2019/01/31 11:34:43 mysql client init sucess
+[SYSTEM] 2019/01/31 11:34:43 mysql ping sucess
+[SYSTEM] 2019/01/31 11:34:43 redis config content decode sucess
+[SYSTEM] 2019/01/31 11:34:43 redis client init sucess
+[SYSTEM] 2019/01/31 11:34:43 system start..
+[SYSTEM] 2019/01/31 11:36:46 db config content decode sucess
+[SYSTEM] 2019/01/31 11:36:46 mysql client init sucess
+[SYSTEM] 2019/01/31 11:36:46 mysql ping sucess
+[SYSTEM] 2019/01/31 11:36:46 redis config content decode sucess
+[SYSTEM] 2019/01/31 11:36:46 redis client init sucess
+[SYSTEM] 2019/01/31 11:36:46 system start..
+[SYSTEM] 2019/01/31 11:48:10 db config content decode sucess
+[SYSTEM] 2019/01/31 11:48:10 mysql client init sucess
+[SYSTEM] 2019/01/31 11:48:10 mysql ping sucess
+[SYSTEM] 2019/01/31 11:48:10 redis config content decode sucess
+[SYSTEM] 2019/01/31 11:48:10 redis client init sucess
+[SYSTEM] 2019/01/31 11:48:10 system start..
+[SYSTEM] 2019/01/31 11:58:53 db config content decode sucess
+[SYSTEM] 2019/01/31 11:58:53 mysql client init sucess
+[SYSTEM] 2019/01/31 11:58:53 mysql ping sucess
+[SYSTEM] 2019/01/31 12:02:36 db config content decode sucess
+[SYSTEM] 2019/01/31 12:02:36 mysql client init sucess
+[SYSTEM] 2019/01/31 12:02:36 mysql ping sucess
+[SYSTEM] 2019/01/31 12:02:53 db config content decode sucess
+[SYSTEM] 2019/01/31 12:02:53 mysql client init sucess
+[SYSTEM] 2019/01/31 12:02:53 mysql ping sucess
+[SYSTEM] 2019/01/31 12:03:38 db config content decode sucess
+[SYSTEM] 2019/01/31 12:03:38 mysql client init sucess
+[SYSTEM] 2019/01/31 12:03:38 mysql ping sucess
+[SYSTEM] 2019/01/31 12:10:14 db config content decode sucess
+[SYSTEM] 2019/01/31 12:10:14 mysql client init sucess
+[SYSTEM] 2019/01/31 12:10:14 mysql ping sucess
+[SYSTEM] 2019/02/01 10:53:44 db config content decode sucess
+[SYSTEM] 2019/02/01 10:53:44 redis config content decode sucess
+[SYSTEM] 2019/02/01 10:53:44 redis client init sucess
+[SYSTEM] 2019/02/01 10:53:44 system start..
+[SYSTEM] 2019/02/01 10:55:44 db config content decode sucess
+[SYSTEM] 2019/02/01 10:55:44 redis config content decode sucess
+[SYSTEM] 2019/02/01 10:55:44 redis client init sucess
+[SYSTEM] 2019/02/01 10:55:44 system start..
+[SYSTEM] 2019/02/01 11:20:56 db config content decode sucess
+[SYSTEM] 2019/02/01 11:20:56 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:20:56 redis client init sucess
+[SYSTEM] 2019/02/01 11:20:56 system start..
+[SYSTEM] 2019/02/01 11:31:22 db config content decode sucess
+[SYSTEM] 2019/02/01 11:31:22 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:31:22 redis client init sucess
+[SYSTEM] 2019/02/01 11:31:22 system start..
+[SYSTEM] 2019/02/01 11:31:45 db config content decode sucess
+[SYSTEM] 2019/02/01 11:31:45 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:31:45 redis client init sucess
+[SYSTEM] 2019/02/01 11:31:45 system start..
+[SYSTEM] 2019/02/01 11:39:31 db config content decode sucess
+[SYSTEM] 2019/02/01 11:39:31 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:39:31 redis client init sucess
+[SYSTEM] 2019/02/01 11:39:31 system start..
+[SYSTEM] 2019/02/01 11:39:50 db config content decode sucess
+[SYSTEM] 2019/02/01 11:39:50 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:39:50 redis client init sucess
+[SYSTEM] 2019/02/01 11:39:50 system start..
+[SYSTEM] 2019/02/01 11:40:29 db config content decode sucess
+[SYSTEM] 2019/02/01 11:40:29 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:40:29 redis client init sucess
+[SYSTEM] 2019/02/01 11:40:29 system start..
+[SYSTEM] 2019/02/01 11:45:28 db config content decode sucess
+[SYSTEM] 2019/02/01 11:45:28 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:45:28 redis client init sucess
+[SYSTEM] 2019/02/01 11:45:28 system start..
+[SYSTEM] 2019/02/01 11:46:44 db config content decode sucess
+[SYSTEM] 2019/02/01 11:46:44 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:46:44 redis client init sucess
+[SYSTEM] 2019/02/01 11:46:44 system start..
+[SYSTEM] 2019/02/01 11:49:12 db config content decode sucess
+[SYSTEM] 2019/02/01 11:49:12 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:49:12 redis client init sucess
+[SYSTEM] 2019/02/01 11:49:12 system start..
+[SYSTEM] 2019/02/01 11:52:56 db config content decode sucess
+[SYSTEM] 2019/02/01 11:52:56 redis config content decode sucess
+[SYSTEM] 2019/02/01 11:52:56 redis client init sucess
+[SYSTEM] 2019/02/01 11:52:56 system start..
+[SYSTEM] 2019/02/01 21:26:52 db config content decode sucess
+[SYSTEM] 2019/02/01 21:26:52 redis config content decode sucess
+[SYSTEM] 2019/02/01 21:26:52 redis client init sucess
+[SYSTEM] 2019/02/01 21:26:52 system start..
+[SYSTEM] 2019/02/01 23:41:44 db config content decode sucess
+[SYSTEM] 2019/02/01 23:41:44 redis config content decode sucess
+[SYSTEM] 2019/02/01 23:41:44 redis client init sucess
+[SYSTEM] 2019/02/01 23:41:44 system start..
+[SYSTEM] 2019/02/01 23:42:14 db config content decode sucess
+[SYSTEM] 2019/02/01 23:42:14 redis config content decode sucess
+[SYSTEM] 2019/02/01 23:42:14 redis client init sucess
+[SYSTEM] 2019/02/01 23:42:14 system start..
+[SYSTEM] 2019/02/01 23:43:32 db config content decode sucess
+[SYSTEM] 2019/02/01 23:43:32 redis config content decode sucess
+[SYSTEM] 2019/02/01 23:43:32 redis client init sucess
+[SYSTEM] 2019/02/01 23:43:32 system start..
+[SYSTEM] 2019/02/01 23:45:12 db config content decode sucess
+[SYSTEM] 2019/02/01 23:45:12 redis config content decode sucess
+[SYSTEM] 2019/02/01 23:45:12 redis client init sucess
+[SYSTEM] 2019/02/01 23:45:12 system start..
+[SYSTEM] 2019/02/01 23:45:46 db config content decode sucess
+[SYSTEM] 2019/02/01 23:45:46 redis config content decode sucess
+[SYSTEM] 2019/02/01 23:45:46 redis client init sucess
+[SYSTEM] 2019/02/01 23:45:46 system start..
+[SYSTEM] 2019/02/01 23:46:27 db config content decode sucess
+[SYSTEM] 2019/02/01 23:46:27 redis config content decode sucess
+[SYSTEM] 2019/02/01 23:46:27 redis client init sucess
+[SYSTEM] 2019/02/01 23:46:27 system start..
+[SYSTEM] 2019/02/02 00:16:17 db config content decode sucess
+[SYSTEM] 2019/02/02 00:16:17 redis config content decode sucess
+[SYSTEM] 2019/02/02 00:16:17 redis client init sucess
+[SYSTEM] 2019/02/02 00:16:17 system start..
+[SYSTEM] 2019/02/02 00:17:12 db config content decode sucess
+[SYSTEM] 2019/02/02 00:17:12 redis config content decode sucess
+[SYSTEM] 2019/02/02 00:17:12 redis client init sucess
+[SYSTEM] 2019/02/02 00:17:12 system start..
+[SYSTEM] 2019/02/02 00:50:48 db config content decode sucess
+[SYSTEM] 2019/02/02 00:50:48 redis config content decode sucess
+[SYSTEM] 2019/02/02 00:50:48 redis client init sucess
+[SYSTEM] 2019/02/02 00:50:48 system start..
+[SYSTEM] 2019/02/02 00:52:41 db config content decode sucess
+[SYSTEM] 2019/02/02 00:52:41 redis config content decode sucess
+[SYSTEM] 2019/02/02 00:52:41 redis client init sucess
+[SYSTEM] 2019/02/02 00:52:41 system start..
+[SYSTEM] 2019/02/02 00:54:40 db config content decode sucess
+[SYSTEM] 2019/02/02 00:54:40 redis config content decode sucess
+[SYSTEM] 2019/02/02 00:54:40 redis client init sucess
+[SYSTEM] 2019/02/02 00:54:40 system start..
+[SYSTEM] 2019/02/02 01:06:13 db config content decode sucess
+[SYSTEM] 2019/02/02 01:06:13 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:06:13 redis client init sucess
+[SYSTEM] 2019/02/02 01:06:13 system start..
+[SYSTEM] 2019/02/02 01:20:04 db config content decode sucess
+[SYSTEM] 2019/02/02 01:20:04 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:20:04 redis client init sucess
+[SYSTEM] 2019/02/02 01:20:04 system start..
+[SYSTEM] 2019/02/02 01:20:35 db config content decode sucess
+[SYSTEM] 2019/02/02 01:20:35 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:20:35 redis client init sucess
+[SYSTEM] 2019/02/02 01:20:35 system start..
+[SYSTEM] 2019/02/02 01:21:58 db config content decode sucess
+[SYSTEM] 2019/02/02 01:21:58 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:21:58 redis client init sucess
+[SYSTEM] 2019/02/02 01:21:58 system start..
+[SYSTEM] 2019/02/02 01:22:33 db config content decode sucess
+[SYSTEM] 2019/02/02 01:22:33 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:22:33 redis client init sucess
+[SYSTEM] 2019/02/02 01:22:33 system start..
+[SYSTEM] 2019/02/02 01:25:49 db config content decode sucess
+[SYSTEM] 2019/02/02 01:25:49 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:25:49 redis client init sucess
+[SYSTEM] 2019/02/02 01:25:49 system start..
+[SYSTEM] 2019/02/02 01:35:24 db config content decode sucess
+[SYSTEM] 2019/02/02 01:35:24 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:35:24 redis client init sucess
+[SYSTEM] 2019/02/02 01:35:24 system start..
+[SYSTEM] 2019/02/02 01:36:33 db config content decode sucess
+[SYSTEM] 2019/02/02 01:36:33 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:36:33 redis client init sucess
+[SYSTEM] 2019/02/02 01:36:33 system start..
+[SYSTEM] 2019/02/02 01:37:17 db config content decode sucess
+[SYSTEM] 2019/02/02 01:37:17 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:37:17 redis client init sucess
+[SYSTEM] 2019/02/02 01:37:17 system start..
+[SYSTEM] 2019/02/02 01:39:46 db config content decode sucess
+[SYSTEM] 2019/02/02 01:39:46 redis config content decode sucess
+[SYSTEM] 2019/02/02 01:39:46 redis client init sucess
+[SYSTEM] 2019/02/02 01:39:46 system start..
+[SYSTEM] 2019/02/02 23:49:25 db config content decode sucess
+[SYSTEM] 2019/02/02 23:49:25 redis config content decode sucess
+[SYSTEM] 2019/02/02 23:49:25 redis client init sucess
+[SYSTEM] 2019/02/02 23:49:25 system start..
+[SYSTEM] 2019/02/08 17:34:33 db config content decode sucess
+[SYSTEM] 2019/02/08 17:34:33 redis config content decode sucess
+[SYSTEM] 2019/02/08 17:34:33 redis client init sucess
+[SYSTEM] 2019/02/08 17:34:33 system start..
+[SYSTEM] 2019/02/08 17:38:41 db config content decode sucess
+[SYSTEM] 2019/02/08 17:38:41 redis config content decode sucess
+[SYSTEM] 2019/02/08 17:38:41 redis client init sucess
+[SYSTEM] 2019/02/08 17:38:41 system start..
+[SYSTEM] 2019/02/08 18:10:06 db config content decode sucess
+[SYSTEM] 2019/02/08 18:10:06 redis config content decode sucess
+[SYSTEM] 2019/02/08 18:10:06 redis client init sucess
+[SYSTEM] 2019/02/08 18:10:06 system start..
+[SYSTEM] 2019/02/08 18:12:33 db config content decode sucess
+[SYSTEM] 2019/02/08 18:12:33 redis config content decode sucess
+[SYSTEM] 2019/02/08 18:12:33 redis client init sucess
+[SYSTEM] 2019/02/08 18:12:33 system start..
+[SYSTEM] 2019/02/08 18:23:46 db config content decode sucess
+[SYSTEM] 2019/02/08 18:23:46 redis config content decode sucess
+[SYSTEM] 2019/02/08 18:23:46 redis client init sucess
+[SYSTEM] 2019/02/08 18:23:46 system start..
+[SYSTEM] 2019/02/09 21:22:09 db config content decode sucess
+[SYSTEM] 2019/02/09 21:22:09 redis config content decode sucess
+[SYSTEM] 2019/02/09 21:22:09 redis client init sucess
+[SYSTEM] 2019/02/09 21:22:09 system start..
+[SYSTEM] 2019/02/10 22:15:22 db config content decode sucess
+[SYSTEM] 2019/02/10 22:15:22 redis config content decode sucess
+[SYSTEM] 2019/02/10 22:15:22 redis client init sucess
+[SYSTEM] 2019/02/10 22:15:22 system start..
+[SYSTEM] 2019/02/10 22:16:09 db config content decode sucess
+[SYSTEM] 2019/02/10 22:16:09 redis config content decode sucess
+[SYSTEM] 2019/02/10 22:16:09 redis client init sucess
+[SYSTEM] 2019/02/10 22:16:09 system start..
+[SYSTEM] 2019/02/10 22:19:27 db config content decode sucess
+[SYSTEM] 2019/02/10 22:19:27 redis config content decode sucess
+[SYSTEM] 2019/02/10 22:19:27 redis client init sucess
+[SYSTEM] 2019/02/10 22:19:27 system start..
+[SYSTEM] 2019/02/10 22:26:14 db config content decode sucess
+[SYSTEM] 2019/02/10 22:26:14 redis config content decode sucess
+[SYSTEM] 2019/02/10 22:26:14 redis client init sucess
+[SYSTEM] 2019/02/10 22:26:14 system start..
+[SYSTEM] 2019/02/10 22:27:10 db config content decode sucess
+[SYSTEM] 2019/02/10 22:27:10 redis config content decode sucess
+[SYSTEM] 2019/02/10 22:27:10 redis client init sucess
+[SYSTEM] 2019/02/10 22:27:10 system start..
+[SYSTEM] 2019/02/14 17:18:22 db config content decode sucess
+[SYSTEM] 2019/02/14 17:18:22 redis config content decode sucess
+[SYSTEM] 2019/02/14 17:18:22 redis client init sucess
+[SYSTEM] 2019/02/14 17:18:22 system start..
+[SYSTEM] 2019/02/14 17:19:56 db config content decode sucess
+[SYSTEM] 2019/02/14 17:19:56 redis config content decode sucess
+[SYSTEM] 2019/02/14 17:19:56 redis client init sucess
+[SYSTEM] 2019/02/14 17:19:56 system start..
+[SYSTEM] 2019/02/14 17:21:51 db config content decode sucess
+[SYSTEM] 2019/02/14 17:21:51 redis config content decode sucess
+[SYSTEM] 2019/02/14 17:21:51 redis client init sucess
+[SYSTEM] 2019/02/14 17:21:51 system start..
+[SYSTEM] 2019/02/14 17:22:29 db config content decode sucess
+[SYSTEM] 2019/02/14 17:22:29 redis config content decode sucess
+[SYSTEM] 2019/02/14 17:22:29 redis client init sucess
+[SYSTEM] 2019/02/14 17:22:29 system start..
